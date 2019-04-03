@@ -1,0 +1,71 @@
+body {
+	text-align: center;
+    font-family: helvetica, harial, sans-serif;
+    margin: 0px;
+    background-color: black;
+}
+   
+
+nav a{
+	display: inline-block;
+	padding: 4px 4px;
+	width: 100px;
+	margin: 5px auto;
+	border: 3px solid #AAA;
+	border-radius: 5px;
+	text-decoration: none;
+	color: green;
+
+}
+
+.cabeca{
+	background-image: url(gg.jpg);
+	background-size: cover;
+	color: white;
+	background-position: top;
+}
+.alinhamento{
+	padding: 60px;
+}
+.cabeca h1{
+	font-size: 1.3em;
+	margin: 0;
+	color: Green;
+}
+
+.cabeca p{
+	font-size: 1.3em;
+	margin: 0;
+	color: red;
+}
+
+#principal{
+	margin: 0;
+	color: green;
+	background-image: url(art2.jpg);
+	background-size: center;
+}
+p{
+	text-ailg: justify;
+	text-indent: 2em;
+}
+p img{
+	display: block;
+	width: 50%;
+	float: rigth;
+	margin-left: 1em; 
+}
+
+section h2{
+	   background-color: #FEF;
+	   margin-top: 0;
+}
+footer{
+	font-size: 1.0em;
+	margin: 15;
+	background-color: black;
+}
+footer p{
+	color: green;
+}
+    
